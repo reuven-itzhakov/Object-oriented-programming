@@ -39,3 +39,11 @@ This repository contains all the homework assignments I completed during my **Ob
 1. Clone the repository:  
    ```bash
    git clone https://github.com/YourUsername/Object-oriented-programming.git
+   ```
+2. Navigate to the project directory:
+```bash
+cd Object-oriented-programming
+```
+3. Open the relevant homework folder and explore the code.
+
+Feel free to explore and use these assignments as a reference for learning OOP concepts! 😊
