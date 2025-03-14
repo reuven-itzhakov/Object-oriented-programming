@@ -38,7 +38,7 @@ This repository contains all the homework assignments I completed during my **Ob
 ## 📂 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/Object-oriented-programming.git
+   git clone https://github.com/reuven-itzhakov/Object-oriented-programming.git
    ```
 2. Navigate to the project directory:
 ```bash
